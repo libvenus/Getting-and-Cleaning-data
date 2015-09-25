@@ -25,6 +25,8 @@ Here is how the script run_analysis.R works:
 
 9. Write data(tidyData) to disk
 
-Here is how to run the script:
+Here is how to run the script(after you have downloaded it with wget or curl or R's download.file function):
 
 ./run_analysis.R
+
+
